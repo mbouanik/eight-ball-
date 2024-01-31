@@ -1,0 +1,13 @@
+.EightBall-circle {
+  display: flex;
+  border-radius: 50%;
+  width: 20rem;
+  height: 20rem;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: white;
+}
+
+.EightBall {
+}
